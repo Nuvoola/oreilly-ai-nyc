@@ -48,9 +48,9 @@ There are several options to run Jupyter in the cloud. Some are listed below. Ho
 
 ## Obtain Lab Files
 
-The lab files are stored in a GitHub repo. Run the commands below in your the Juputer environment you have selected.
+The lab files are stored in a GitHub repo. Run the commands below in your the terminal of your Jupyter server.
 
-1. Open your favorite terminal
+1. Open the terminal
 2. Clone git repo:
 
     git clone https://github.com/3Blades/oreilly-ai-nyc
@@ -63,4 +63,4 @@ The lab files are stored in a GitHub repo. Run the commands below in your the Ju
     git pull
 ```
 
-2. Will do our best to provide you with cloud credentials for you to use free of charge, however, there may be some restrictions. Azure, Google, and AWS all offer free tier options for limited use cases.
+2. We will do our best to provide you with cloud credentials for you to use free of charge, however, there may be some restrictions. Azure, Google, and AWS all offer free tier options for limited use cases.
